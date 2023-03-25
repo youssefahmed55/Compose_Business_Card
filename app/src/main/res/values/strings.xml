@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose Business Card</string>
+    <string name="Phone_Icon">Phone Icon</string>
+    <string name="Share_Icon">Share Icon</string>
+    <string name="Email_Icon">Email Icon</string>
+    <string name="Android_Image">Android Image</string>
+</resources>
